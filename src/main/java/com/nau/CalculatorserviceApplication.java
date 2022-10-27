@@ -14,6 +14,7 @@ public class CalculatorserviceApplication {
 		AbstractApplicationContext ctx = 	(AbstractApplicationContext) SpringApplication.run(CalculatorserviceApplication.class, args);
 		ctx.registerShutdownHook();
 		System.out.println("ok");
+		// aaa
 		//		MYBean mb = ctx.getBean(MYBean.class);
 //		mb.hello("naushad");
 //		ctx.getBean(ModelMapper.class);
