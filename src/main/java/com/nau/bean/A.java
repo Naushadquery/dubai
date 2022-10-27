@@ -9,7 +9,7 @@ public class A {
 	private B b ; /// cheese
 	
 	public A() {
-		System.out.println("A obejct");
+		System.out.println("A obejct is created");
 	}
 	
 }
